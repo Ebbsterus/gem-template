@@ -1,4 +1,5 @@
 """Benchmark stub — replace with real benchmark logic."""
+
 import argparse
 import json
 import time
